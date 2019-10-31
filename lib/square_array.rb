@@ -1,2 +1,4 @@
 def square_array(array)
- for.each
+ counter = 0
+ 
+end
